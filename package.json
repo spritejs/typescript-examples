@@ -27,6 +27,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "spritejs": "^3.2.5"
+    "sprite-extend-3d": "^0.2.4",
+    "spritejs": "^3.2.8"
   }
 }
